@@ -792,7 +792,7 @@ export default function KioskPage() {
               <img src="/juet-logo.png" alt="JUET Logo" className="w-full h-full object-contain" />
             </div>
             <div>
-              <h1 className="text-xl sm:text-2xl font-bold text-slate-900 leading-tight">SPORTS REGISTRATION PORTAL</h1>
+              <h1 className="text-xl sm:text-2xl font-bold text-slate-900 leading-tight">VIGYAN-SETU REGISTRATION PORTAL</h1>
               <p className="text-xs text-slate-400 font-medium">Registration Counter & Kiosk System</p>
             </div>
           </div>
@@ -842,7 +842,7 @@ export default function KioskPage() {
           <div className="w-14 h-14 bg-white/95 rounded-2xl flex items-center justify-center mb-6 shadow-md p-1.5">
             <img src="/juet-logo.png" alt="JUET Logo" className="w-full h-full object-contain" />
           </div>
-          <h2 className="text-2xl font-bold mb-3">Sports Registration</h2>
+          <h2 className="text-2xl font-bold mb-3">Vigyan-Setu Registration</h2>
           <p className="text-blue-200 text-sm leading-relaxed mb-8">
             Fill your details or use the 1-click voice assistant. Your ID card will be ready immediately upon submission.
           </p>
@@ -864,7 +864,7 @@ export default function KioskPage() {
             ))}
           </div>
           <div className="mt-8 pt-5 border-t border-blue-600/40 text-xs text-blue-200/90 space-y-1">
-            <p className="font-bold text-white text-xs">Sports Registration Portal</p>
+            <p className="font-bold text-white text-xs">Vigyan-Setu Registration Portal</p>
             <p className="text-[11px] text-blue-200">Jaypee University of Engineering & Technology, Guna</p>
             <p className="text-[10px] text-blue-300/80 pt-1">Designed & Developed by Priyansh goyal & Team</p>
             <p className="text-[10px] text-blue-300/60">© {new Date().getFullYear()} Priyansh goyal. All Rights Reserved.</p>
